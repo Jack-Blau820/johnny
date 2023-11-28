@@ -8,7 +8,7 @@ function Foot() {
       <section className="foot_container">
         <AnimateOnScroll animateIn="footer" delay={100}>
           <div>
-            <img src={Logo} alt="" className="logo_foot" />
+            {/* <img src={Logo} alt="" className="logo_foot" /> */}
           </div>
         </AnimateOnScroll>
 
