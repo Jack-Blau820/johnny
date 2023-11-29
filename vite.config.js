@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      input: '/src/main.jsx', // Specify the entry point here
+      input: './src/main.jsx', // Specify the entry point here
     },
   },
   // base:'/',
