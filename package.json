@@ -1,7 +1,7 @@
 {
-  "name": "porta",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portafolio Web",
+  "description": "Portfolio Web",
   "type": "module",
   "scripts": {
     "dev": "vite",
